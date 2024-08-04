@@ -1,0 +1,8 @@
+<a href="signin.php" class="button-a" ><i class="fas fa-shopping-cart"></i></a>
+
+
+<a href="signin.php" class="indicator__button" ><i class="fa fa-user" aria-hidden="true"></i>
+</a>
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
